@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OrientationApp</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="fourth">Fourth</string>
+    <string name="fifth">Fifth</string>
+    <string name="sixth">Sixth</string>
+    <string name="editTextHint">editText Hint</string>
+</resources>
